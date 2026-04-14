@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Saradha Krishnamoorthy!
 
 ## 🌱 About Me
-I am currently  **Research Manager at IFMR LEAD**, where I oversee large-scale research projects that address critical challenges such as climate resilience, livelihood enhancement, and entrepreneurship. Specialized in designing and scaling evidence-backed initiatives, I bring close to a decade of experience in research management, program implementation, and stakeholder engagement to drive measurable impact.
+I am currently  **Research Manager **, where I oversee large-scale research projects that address critical challenges such as climate resilience, livelihood enhancement, and entrepreneurship. Specialized in designing and scaling evidence-backed initiatives, I bring close to a decade of experience in research management, program implementation, and stakeholder engagement to drive measurable impact.
 
 My expertise includes:
 - Leading complex, multi-stakeholder research projects
